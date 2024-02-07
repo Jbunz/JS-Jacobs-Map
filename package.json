@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "live": "^0.1.25-beta.0",
+    "live-server": "^1.2.2",
+    "server": "^1.0.38"
+  },
+  "scripts": {
+    "start": "live-server --host=localhost --port=3000"
+  }
+}
